@@ -1,16 +1,93 @@
-# React + Vite
+# 🚀 User Directory Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive **User Directory Dashboard** built using React.
+This project fetches user data from an API and provides search, sorting, and detailed user views.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* 🔍 Search users by name or email
+* 🔄 Sort users by Name and Company
+* 👤 Click on a user to view full details
+* ⚡ Fast and responsive UI
+* 🎨 Modern dashboard design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React (Vite)
+* React Router
+* Tailwind CSS
+* JavaScript (ES6)
+
+---
+
+## 📦 API Used
+
+* https://jsonplaceholder.typicode.com/users
+
+---
+
+## 🖥️ Screenshots
+
+(Add your screenshots here)
+
+---
+
+## 🚀 Live Demo
+
+👉 
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd user-dashboard
+npm install
+npm run dev
+```
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## 💡 What I Learned
+
+* Handling API data using React hooks
+* Implementing search and sorting logic
+* Routing using React Router
+* Building clean and reusable components
+
+---
+
+## 📌 Future Improvements
+
+* Pagination
+* Dark mode
+* Better animations
+* Backend integration
+
+---
+
+## 🙌 Author
+
+**omprakash karri**
+
+---
+
+⭐ If you like this project, give it a star!
+
