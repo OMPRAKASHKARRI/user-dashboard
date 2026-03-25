@@ -30,14 +30,14 @@ This project fetches user data from an API and provides search, sorting, and det
 
 ---
 
-## 🖥️ Screenshots
 
-(Add your screenshots here)
+
+
 
 ---
 
 ## 🚀 Live Demo
-
+https://user-dash-baord.netlify.app/
 👉 
 
 ---
